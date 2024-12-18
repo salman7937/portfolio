@@ -119,7 +119,7 @@ export const projects = [
         id: 1,
         url: "/",
         title: "Crypto Screener Application",
-        imgUrl: '/src/assets/image3.png',
+        imgUrl: '/assets/image3.png',
         desc: "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.",
         titleNo: "01",
         isLeft: true
@@ -130,7 +130,7 @@ export const projects = [
         id: 2,
         url: "/",
         title: "Euphoria - Ecommerce (Apparels) Website Template",
-        imgUrl: '/src/assets/image4.png',
+        imgUrl: '/assets/image4.png',
         desc: "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book. when an unknown printer took a galley of type and scrambled it to specimen book.",
         titleNo: "02",
         isLeft: false
@@ -139,7 +139,7 @@ export const projects = [
         id: 3,
         url: "/",
         title: "Blog Website Template",
-        imgUrl: '/src/assets/image5.png',
+        imgUrl: '/assets/image5.png',
         desc: "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.",
         titleNo: "03",
         isLeft: true
