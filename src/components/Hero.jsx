@@ -7,10 +7,10 @@ function Hero() {
       <div className='flex flex-col  justify-between  md:order-1 order-2'>
         <div className=''>
           <h2 className=' md:text-5xl text-2xl tracking-[-2%] max-w-[600px] p-5'>
-            Hello i'am <span className='font-extrabold'>Evren shah. </span> <span className='font-extrabold '>Frontend</span> <span className='outlined-text font-bold' >developer</span> Based in <span className='font-extrabold' > india.</span>
+            Hello i'am <span className='font-extrabold'>Salman Ahmed. </span> <span className='font-extrabold '>Frontend</span> <span className='outlined-text font-bold' >developer</span> Based in <span className='font-extrabold' > Pakistan.</span>
 
           </h2>
-          <p className=' text-base tracking-[2%] p-5 text-[#71717A]'>I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.</p>
+          <p className=' text-base tracking-[2%] p-5 text-[#71717A]'>I'm Salman Ahmed Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.</p>
         </div>
         <div className=''>
           <SocialBtn />
