@@ -151,21 +151,21 @@ export const testmonail = [
         id: 1,
         name: "Evren Shah",
         title: "Designer",
-        imgUrl: '../assets/image9.png',
+        imgUrl: '/image9.png',
         desc: "I recently had to jump on 10+ different calls across eight different countries to find the right owner."
     },
     {
         id: 2,
         name: "Flora sheen",
         title: "Designer",
-        imgUrl: '../assets/image8.png',
+        imgUrl: '/image8.png',
         desc: "I recently had to jump on 10+ different calls across eight different countries to find the right owner."
     },
     {
         id: 3,
         name: "Evren Shah",
         title: "Designer",
-        imgUrl: '../assets/image9.png',
+        imgUrl: '/image9.png',
         desc: "I recently had to jump on 10+ different calls across eight different countries to find the right owner."
     },
 
